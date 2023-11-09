@@ -1,0 +1,22 @@
+.ticker{
+width: 100%;
+height: auto;
+background-color: aquamarine;
+padding: 5px;
+}
+
+.ticker  ul{
+	display: flex;
+	gap: 10px
+	
+}
+
+.ticker ul li{
+	list-style-type: none;
+}
+
+
+
+.purple {
+	/* color: #6900ff; */
+}
