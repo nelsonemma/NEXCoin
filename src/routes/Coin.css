@@ -23,9 +23,11 @@
 }
 
 .rank-btn{
-	border: 1px solid #6900ff;
+	/* border: 1px solid #6900ff; */
+	border: 1px solid rgb(29, 159, 105);
 	/* box-shadow: 0px 0px 8px #6900ff; */
-	background-color: #6900ff;
+	/* background-color: #6900ff; */
+	background: rgb(29, 159, 105);
 	border-radius: 8px;
 	padding: .2rem;
 	
@@ -67,7 +69,8 @@ td , th{
 
 th{
 	
-	background-color: #6900ff;
+	/* background-color: #6900ff; */
+	background-color: #1d9f69;
 	
 
 }

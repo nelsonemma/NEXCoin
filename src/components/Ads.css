@@ -35,7 +35,8 @@
 .link-grid{
 	
 	max-width: 100%;
-	background-color: #6a00ffde;
+	/* background-color: #6a00ffde; */
+	background-color: rgb(29, 159, 105);
 	/* background-color: #020113ec; */
 	
 	padding: 25px;
@@ -55,8 +56,10 @@
 
 .footer {
 	
-	background-color: #6a00ffde;
-	/* background-color: #35353aec; */
+	/* background-color: #6a00ffde; */
+	
+
+	background-color: rgb(29, 159, 105);
 
 }
 .footer p{
